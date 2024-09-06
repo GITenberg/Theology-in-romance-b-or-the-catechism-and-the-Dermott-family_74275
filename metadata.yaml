@@ -1,0 +1,40 @@
+_repo: Theology-in-romance-b-or-the-catechism-and-the-Dermott-family_74275
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+  - agent_name: Baker, A. R. (Abijah Richardson)
+    alias: Baker, Abijah Richardson
+    birthdate: 1805
+    deathdate: 1876
+    gutenberg_agent_id: '57419'
+    url: http://www.gutenberg.org/2009/agents/57419
+description: ''
+gutenberg_issued: '2024-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74275'
+language: en
+pgterms:marc905: 20240807082650leslie
+pgterms:marc906: '1859'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bJohn P. Jewett and Company, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: God and mankind, volume 1
+subjects:
+- !lcsh 'Westminster Assembly (1643-1652). Shorter catechism'
+- !lcc 'BX'
+- GITenberg
+title: 'Theology in romance : $b or, the catechism and the Dermott family'
+url: http://www.gutenberg.org/ebooks/74275
